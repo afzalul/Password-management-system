@@ -8,7 +8,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link" href="e-travel%20management%20home%20page.php">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
           <a class="nav-item nav-link" href="admin_login.php">Admin Login</a>
          
           <a class="nav-item nav-link active" href="user_login.php">Login/Register</a>
